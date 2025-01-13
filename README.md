@@ -1,7 +1,5 @@
 ### Hi there 👋, my name is Jayonta
 #### Android App Developer Specializing in Kotlin & PHP
-![Android App Developer Specializing in Kotlin & PHP](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 I am an experienced Android app developer with a solid three-year track record in designing, developing, and maintaining high-quality mobile applications. My expertise lies in leveraging the powerful features of Kotlin for Android development, along with a strong proficiency in PHP for backend development.
 
 My journey in app development has equipped me with a diverse skill set, including:
@@ -29,6 +27,4 @@ Skills: JAVA / KOTLIN / PHP / HTML / CSS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/AndroidWithJoyonta)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/AndroidWithJoyonta&show_icons=true)  
-
-
 
